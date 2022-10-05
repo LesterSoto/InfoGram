@@ -54,6 +54,7 @@
                     android:hint="@string/contraseña"
                     >
                 </com.google.android.material.textfield.TextInputEditText>
+                
             </com.google.android.material.textfield.TextInputLayout>
 
         </LinearLayout>
