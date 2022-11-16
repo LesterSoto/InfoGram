@@ -1,9 +1,11 @@
-package com.ramdom.infogramapplication;
+package com.ramdom.infogramapplication.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import android.os.Bundle;
+
+import com.ramdom.infogramapplication.R;
 
 public class CreateAccountActivity extends AppCompatActivity {
 
