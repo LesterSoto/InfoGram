@@ -103,15 +103,15 @@ public class HomeFragment extends Fragment {
         ArrayList<Image> images = new ArrayList<>();
 
         images.add(new Image("https://a.cdn-hotels.com/gdcs/production143/d357/42fb6908-dcd5-4edb-9f8c-76208494af80.jpg", "Jose Silva", "10 dias", "100 me gusta"));
-        images.add(new Image("https://www.boliviaentusmanos.com/turismo/imagenes/casa-de-la-moneda-1.jpg", "Luis Perez", "3 dias", "5 me gusta"));
-        images.add(new Image("https://lh5.googleusercontent.com/-CINb2hHdBHc/VMfJjASBQDI/AAAAAAAAC0I/23gSET6uSaw/s640/blogger-image-979580039.jpg", "Fernando Torricos", "6 dias", "4 me gusta"));
-        images.add(new Image("https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/46/35.jpg", "Maria Flores", "5 dias", "6 me gusta"));
-        images.add(new Image("https://www.viajesylugares.com/imagenes/copacabana505101_960_720.jpg", "Rolando Morales", "3 dias", "5 me gusta"));
-        images.add(new Image("https://www.noticiasfides.com/images/news/2022/09/c-image2022-09-15163039220-417754-A1C5.png", "William Jaimes", "4 dias", "4 me gusta"));
-        images.add(new Image("https://www.magazinemanagement.gm-bolivia.com/wp-content/uploads/2021/11/6030819859692969.jpg", "Roberto Paniagua", "2 dias", "3 me gusta"));
-        images.add(new Image("https://samaipata.com/wp-content/uploads/2017/03/1a.jpg", "Lorena Herrera", "2 dias", "8 me gusta"));
-        images.add(new Image("https://www.boliviaentusmanos.com/turismo/imagenes/cristo-de-la-concordia-1.jpg", "Laura Caceres", "6 dias", "3 me gusta"));
-        images.add(new Image("https://www.caxiatours.com/img/packages/normal_d8acf0cbd512140f782bc72f46631cbce14b8cce.jpg", "Marcelo Rojas", "9 dias", "1 me gusta"));
+        images.add(new Image("https://parisando.b-cdn.net/wp-content/uploads/sites/11/2022/03/la-torre-eiffel-de-paris.jpg", "Dominique", "1 dias", "47 me gusta"));
+        images.add(new Image("https://uncube.co/wp-content/uploads/2020/09/4-internet-cyber-gaming-cafe-modern-interior-design-orange-fresh-lights-wooden-ceiling.jpg", "Aline Barros", "10 dias", "19 me gusta"));
+        images.add(new Image("https://midias.correiobraziliense.com.br/_midias/png/2022/11/20/675x450/1_capturar-26884998.png", "Marcos Ribeiro", "3 dias", "80 me gusta"));
+        images.add(new Image("https://f.i.uol.com.br/fotografia/2021/11/30/163830076961a67c61e530e_1638300769_3x2_lg.jpg", "Brenda Amaral", "4 dias", "100 me gusta"));
+        images.add(new Image("https://i.superesportes.com.br/_Mm8F7jv_JZu6-oTz42T2HHtyS4=/650x0/smart/imgsapp.mg.superesportes.com.br/app/foto_126510467054/2022/11/20/14152/20221120114324776688e.jpg", "Rebeca Moliz", "4 dias", "400 me gusta"));
+        images.add(new Image("https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/brasil-x-peru.jpg", "Andre Lima", "1 dias", "2980 me gusta"));
+        images.add(new Image("https://www.lance.com.br/galerias/wp-content/uploads/2022/11/Memes-derrota-Argentina-x-Arabia-Copa-do-Mundo-15-711x474.jpg", "Juanito", "1 dias", "800 me gusta"));
+        images.add(new Image("https://g7.news/wp-content/uploads/2022/11/Arabia-Saudita-declara-feriado-apos-vitoria-surpreendente-sobre-a-Argentina-1140x570.jpg", "Al Muhammad Khalil", "1 dias", "1579 me gusta"));
+        images.add(new Image("https://www.viajenaviagem.com/wp-content/uploads/2019/10/reveilon-rio-de-janeiro-1920x640-1.jpg", "Fernando Pastor", "6 dias", "783 me gusta"));
 
         return images;
     }
