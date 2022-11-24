@@ -25,7 +25,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="centerCrop"
-                android:background="@drawable/img_20181113_152143_original"
+                android:background="@drawable/arara_animal"
                 app:layout_collapseMode="parallax"
                 android:transitionName="@string/transitionName_imageCardView"/>
             
@@ -55,7 +55,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/textSize_username_image_detail"
-                android:text="@string/carlos_vargas_cardview"
+                android:text="@string/eduarda_maria_cardView"
                 android:layout_marginTop="@dimen/marginTop_image_detail"
                 android:paddingLeft="@dimen/padding_card"
                 android:paddingRight="@dimen/padding_card"/>

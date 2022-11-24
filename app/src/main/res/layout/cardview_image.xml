@@ -14,7 +14,7 @@
             android:id="@+id/imageCardView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:src="@drawable/img_20181113_152143_original"
+            android:src="@drawable/arara_animal"
             android:scaleType="centerCrop"
             android:transitionName="@string/transitionName_imageCardView"/>
 
@@ -30,7 +30,7 @@
                 android:id="@+id/usernameCardView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/carlos_vargas_cardview"
+                android:text="@string/eduarda_maria_cardView"
                 android:textSize="24sp"
                 android:textColor="@color/textColor_White"/>
             <LinearLayout
