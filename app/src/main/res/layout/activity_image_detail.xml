@@ -55,7 +55,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="@dimen/textSize_username_image_detail"
-                android:text="@string/eduarda_maria_cardView"
+                android:text="@string/title_user_cardview"
                 android:layout_marginTop="@dimen/marginTop_image_detail"
                 android:paddingLeft="@dimen/padding_card"
                 android:paddingRight="@dimen/padding_card"/>

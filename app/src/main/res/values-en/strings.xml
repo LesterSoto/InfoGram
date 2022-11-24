@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">infogram</string>
-    <string name="nombre_de_usuario">Username</string>
-    <string name="contraseña">Password</string>
+    <string name="nombre_de_usuario">Nombre de Usuario</string>
+    <string name="contraseña">Contraseña</string>
     <string name="button_text">LOGIN</string>
     <string name="no_tienes_cuenta">¿No tienes Cuenta?, </string>
     <string name="crea_una_aqui">crea una aqui</string>
@@ -25,5 +25,5 @@
     <string name="text_title_image_detail">Loro o Arara</string>
     <string name="text_content_image_detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
     <string name="transitionName_imageCardView">transitionName_imageCardView</string>
-    <string name="eduarda_maria_cardView">Joel Lester</string>
+    <string name="title_user_cardview">Joel Lester</string>
 </resources>

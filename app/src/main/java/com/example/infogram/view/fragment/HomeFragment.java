@@ -36,17 +36,9 @@ public class HomeFragment extends Fragment {
     private String mParam2;
 
     public HomeFragment() {
-        // Required empty public constructor
     }
 
-    /**
-     * Use this factory method to create a new instance of
-     * this fragment using the provided parameters.
-     *
-     * @param param1 Parameter 1.
-     * @param param2 Parameter 2.
-     * @return A new instance of fragment HomeFragment.
-     */
+
     // TODO: Rename and change types and number of parameters
     public static HomeFragment newInstance(String param1, String param2) {
         HomeFragment fragment = new HomeFragment();
@@ -102,16 +94,16 @@ public class HomeFragment extends Fragment {
     public ArrayList<Image> buidImages(){
         ArrayList<Image> images = new ArrayList<>();
 
-        images.add(new Image("https://a.cdn-hotels.com/gdcs/production143/d357/42fb6908-dcd5-4edb-9f8c-76208494af80.jpg", "Jose Silva", "10 dias", "100 me gusta"));
-        images.add(new Image("https://parisando.b-cdn.net/wp-content/uploads/sites/11/2022/03/la-torre-eiffel-de-paris.jpg", "Dominique", "1 dias", "47 me gusta"));
-        images.add(new Image("https://uncube.co/wp-content/uploads/2020/09/4-internet-cyber-gaming-cafe-modern-interior-design-orange-fresh-lights-wooden-ceiling.jpg", "Aline Barros", "10 dias", "19 me gusta"));
-        images.add(new Image("https://midias.correiobraziliense.com.br/_midias/png/2022/11/20/675x450/1_capturar-26884998.png", "Marcos Ribeiro", "3 dias", "80 me gusta"));
-        images.add(new Image("https://f.i.uol.com.br/fotografia/2021/11/30/163830076961a67c61e530e_1638300769_3x2_lg.jpg", "Brenda Amaral", "4 dias", "100 me gusta"));
-        images.add(new Image("https://i.superesportes.com.br/_Mm8F7jv_JZu6-oTz42T2HHtyS4=/650x0/smart/imgsapp.mg.superesportes.com.br/app/foto_126510467054/2022/11/20/14152/20221120114324776688e.jpg", "Rebeca Moliz", "4 dias", "400 me gusta"));
-        images.add(new Image("https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/brasil-x-peru.jpg", "Andre Lima", "1 dias", "2980 me gusta"));
-        images.add(new Image("https://www.lance.com.br/galerias/wp-content/uploads/2022/11/Memes-derrota-Argentina-x-Arabia-Copa-do-Mundo-15-711x474.jpg", "Juanito", "1 dias", "800 me gusta"));
-        images.add(new Image("https://g7.news/wp-content/uploads/2022/11/Arabia-Saudita-declara-feriado-apos-vitoria-surpreendente-sobre-a-Argentina-1140x570.jpg", "Al Muhammad Khalil", "1 dias", "1579 me gusta"));
-        images.add(new Image("https://www.viajenaviagem.com/wp-content/uploads/2019/10/reveilon-rio-de-janeiro-1920x640-1.jpg", "Fernando Pastor", "6 dias", "783 me gusta"));
+        images.add(new Image("https://a.cdn-hotels.com/gdcs/production143/d357/42fb6908-dcd5-4edb-9f8c-76208494af80.jpg", "Jose Silva", " 10 dias", "100 me gusta"));
+        images.add(new Image("https://parisando.b-cdn.net/wp-content/uploads/sites/11/2022/03/la-torre-eiffel-de-paris.jpg", "Dominique", " 1 dias", "47 me gusta"));
+        images.add(new Image("https://uncube.co/wp-content/uploads/2020/09/4-internet-cyber-gaming-cafe-modern-interior-design-orange-fresh-lights-wooden-ceiling.jpg", "Aline Barros", " 10 dias", "19 me gusta"));
+        images.add(new Image("https://midias.correiobraziliense.com.br/_midias/png/2022/11/20/675x450/1_capturar-26884998.png", "Marcos Ribeiro", " 3 dias", "80 me gusta"));
+        images.add(new Image("https://f.i.uol.com.br/fotografia/2021/11/30/163830076961a67c61e530e_1638300769_3x2_lg.jpg", "Brenda Amaral", " 4 dias", "100 me gusta"));
+        images.add(new Image("https://i.superesportes.com.br/_Mm8F7jv_JZu6-oTz42T2HHtyS4=/650x0/smart/imgsapp.mg.superesportes.com.br/app/foto_126510467054/2022/11/20/14152/20221120114324776688e.jpg", "Rebeca Moliz", " 4 dias", "400 me gusta"));
+        images.add(new Image("https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2019/07/brasil-x-peru.jpg", "Andre Lima", " 1 dias", "2980 me gusta"));
+        images.add(new Image("https://www.lance.com.br/galerias/wp-content/uploads/2022/11/Memes-derrota-Argentina-x-Arabia-Copa-do-Mundo-15-711x474.jpg", "Juanito", " 2 dias", "800 me gusta"));
+        images.add(new Image("https://g7.news/wp-content/uploads/2022/11/Arabia-Saudita-declara-feriado-apos-vitoria-surpreendente-sobre-a-Argentina-1140x570.jpg", "Al Muhammad Khalil", " 3 dias", "1579 me gusta"));
+        images.add(new Image("https://www.viajenaviagem.com/wp-content/uploads/2019/10/reveilon-rio-de-janeiro-1920x640-1.jpg", "Fernando Pastor", " 6 dias", "783 me gusta"));
 
         return images;
     }

@@ -30,7 +30,7 @@
                 android:id="@+id/usernameCardView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/eduarda_maria_cardView"
+                android:text="@string/title_user_cardview"
                 android:textSize="24sp"
                 android:textColor="@color/textColor_White"/>
             <LinearLayout
